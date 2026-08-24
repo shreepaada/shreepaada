@@ -211,35 +211,31 @@ Full-stack task management application built with a scalable layered architectur
 
 ---
 
-## 📊 GitHub Stats
+<h2>🤝 Connect With Me</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreepaada&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreepaada's GitHub Stats" />
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:shreepaadamc2003@gmail.com">shreepaadamc2003@gmail.com</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreepaada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreepaada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
+<p>
+  💼 <strong>LinkedIn:</strong>
   <a href="https://linkedin.com/in/shreepaada-mc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+    linkedin.com/in/shreepaada-mc
   </a>
-  &nbsp;
+</p>
+
+<p>
+  🌐 <strong>Portfolio:</strong>
   <a href="https://shreepaada-m-c-portfolio.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
+    shreepaada-m-c-portfolio.vercel.app
   </a>
-  &nbsp;
-  <a href="mailto:shreepaadamc2003@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" height="40" alt="Email"/>
+</p>
+
+<p>
+  🐙 <strong>GitHub:</strong>
+  <a href="https://github.com/shreepaada" target="_blank">
+    github.com/shreepaada
   </a>
 </p>
 
