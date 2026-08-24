@@ -151,7 +151,7 @@ End-to-end machine learning system built using historical Formula-1 data.
 - Achieved **0.983 ROC-AUC**
 - Built a Flask inference API with a React frontend
 
-🔗 **[View Project](https://github.com/shreepaada)**
+🔗 **[View Project](https://github.com/shreepaada/f1-winner-prediction)**
 
 ---
 
@@ -166,7 +166,7 @@ AI-powered precision farming platform combining satellite, soil, and climate dat
 - Achieved **95.9% validation accuracy**
 - Research paper published at **IEEE ICCAMS 2025**
 
-🔗 **[View Project](https://github.com/shreepaada)**
+🔗 **[View Project](https://agrovision-opal.vercel.app/dashboard)**
 
 ---
 
@@ -181,7 +181,7 @@ Full-stack task management application built with a scalable layered architectur
 - Built a responsive React + TypeScript frontend
 - Integrated MySQL using JPA/Hibernate
 
-🔗 **[View Project](https://github.com/shreepaada)**
+🔗 **[View Project](https://github.com/shreepaada/Task-App)**
 
 ---
 
@@ -229,13 +229,6 @@ Full-stack task management application built with a scalable layered architectur
   🌐 <strong>Portfolio:</strong>
   <a href="https://shreepaada-m-c-portfolio.vercel.app" target="_blank">
     shreepaada-m-c-portfolio.vercel.app
-  </a>
-</p>
-
-<p>
-  🐙 <strong>GitHub:</strong>
-  <a href="https://github.com/shreepaada" target="_blank">
-    github.com/shreepaada
   </a>
 </p>
 
