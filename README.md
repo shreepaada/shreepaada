@@ -240,5 +240,5 @@ Full-stack task management application built with a scalable layered architectur
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my profile!</b>
 </p>
