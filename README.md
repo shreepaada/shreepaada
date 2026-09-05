@@ -25,20 +25,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science graduate from **Dayanand Sagar University**
-- 💻 Interested in **Software Engineering and Full-Stack Development**
-- 🔭 Currently working on **machine learning and full-stack projects**
-- 🌱 Currently learning **Robotic Process Automation (RPA) with Python**
-- 💬 Ask me about **Java, Spring Boot, React, Python, REST APIs and Machine Learning**
-- 📄 Published a research paper at **IEEE ICCAMS 2025**
-- 🏆 Secured **3rd place in an Inter-College Hackathon**
-- 🎓 Earned the **Google UX Design Professional Certificate**
+- B.Tech Computer Science graduate from **Dayanand Sagar University**
+- Interested in **Software Engineering and Full-Stack Development**
+- Currently working on **machine learning and full-stack projects**
+- Currently learning **Robotic Process Automation (RPA) with Python**
+- Ask me about **Java, Spring Boot, React, Python, REST APIs and Machine Learning**
+- Published a research paper at **IEEE ICCAMS 2025**
+- Secured **3rd place in an Inter-College Hackathon**
+- Earned the **Google UX Design Professional Certificate**
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 ### Languages
 
@@ -136,9 +136,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏎️ Formula-1 Race Winner Prediction System
+### Formula-1 Race Winner Prediction System
 
 End-to-end machine learning system built using historical Formula-1 data.
 
@@ -153,7 +153,7 @@ End-to-end machine learning system built using historical Formula-1 data.
 
 ---
 
-### 🌾 AgroVision – Precision Farming Insights Using AI
+### AgroVision – Precision Farming Insights Using AI
 
 AI-powered precision farming platform combining satellite, soil, and climate data.
 
@@ -168,7 +168,7 @@ AI-powered precision farming platform combining satellite, soil, and climate dat
 
 ---
 
-### ✅ Task Manager – Full-Stack Application
+### Task Manager – Full-Stack Application
 
 Full-stack task management application built with a scalable layered architecture.
 
@@ -183,7 +183,7 @@ Full-stack task management application built with a scalable layered architectur
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### UX Designer Intern — Klart'Digi
 **January 2025 – July 2025**
@@ -201,30 +201,30 @@ Full-stack task management application built with a scalable layered architectur
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 📄 **IEEE ICCAMS 2025** — Research Paper Published
-- 🥉 **3rd Place** — Inter-College Hackathon
-- 🎓 **Google UX Design Professional Certificate**
+- **IEEE ICCAMS 2025** — Research Paper Published
+- **3rd Place** — Inter-College Hackathon
+- **Google UX Design Professional Certificate**
 
 ---
 
-<h2>🤝 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <p>
-  📧 <strong>Email:</strong>
+     <strong>Email:</strong>
   <a href="mailto:shreepaadamc2003@gmail.com">shreepaadamc2003@gmail.com</a>
 </p>
 
 <p>
-  💼 <strong>LinkedIn:</strong>
+     <strong>LinkedIn:</strong>
   <a href="https://linkedin.com/in/shreepaada-mc" target="_blank">
     linkedin.com/in/shreepaada-mc
   </a>
 </p>
 
 <p>
-  🌐 <strong>Portfolio:</strong>
+     <strong>Portfolio:</strong>
   <a href="https://shreepaada-m-c-portfolio.vercel.app" target="_blank">
     shreepaada-m-c-portfolio.vercel.app
   </a>
