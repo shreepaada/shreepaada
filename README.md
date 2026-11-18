@@ -194,7 +194,7 @@ Full-stack task management application built with a scalable layered architectur
 - Improved PDF export reliability using Node.js and Puppeteer
 
 ### Web Development Intern — Vertotech Aerospace
-**Jan 2024 – Mar 2023**
+**Jan 2024 – Mar 2024**
 
 - Designed and developed a drone showcase website using Next.js and TypeScript
 - Implemented interactive animations using Framer Motion
